@@ -1,0 +1,19 @@
+# Entorno virtual (Librerías locales de Python)
+venv/
+.venv/
+env/
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local de VS Code
+.vscode/
+
+# --- TUS CARPETAS Y ARCHIVOS EXTRA (AÑADE ESTO) ---
+Title/
+Title.zip
+videogamesales/
+videogamesales.zip
